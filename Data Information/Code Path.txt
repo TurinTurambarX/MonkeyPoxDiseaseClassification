@@ -1,0 +1,9 @@
+Dataset 1: Small Dataset (Original)
+
+Without Augmentation: ".../torchpox1.py"
+Augmented: ".../torchpox1aug.py"
+------------------------
+Dataset 2: Large Dataset (Expanded)
+
+Without Augmentation: ".../torchpox2.py"
+Augmented: ".../torchpox2aug.py"

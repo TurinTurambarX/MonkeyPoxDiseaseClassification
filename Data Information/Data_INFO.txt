@@ -1,0 +1,11 @@
+
+MPOXDBASE LARGE
+
+Chickenpox -> 225
+Cowpox -> 54
+Measles -> 74
+Monkeypox -> 203
+Normal -> 104
+Smallpox -> 358
+-----------------
+Total -> 1018
